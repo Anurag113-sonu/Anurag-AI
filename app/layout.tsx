@@ -12,9 +12,9 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'Anurag AI',
     siteName: 'Anurag-ai',
-    url: 'https://intello-ai.vercel.app/',
+    url: 'https://anurag-ai-git-main-anurag113-sonus-projects.vercel.app/',
     description:
-      'Radhika is a versatile AI chatbot designed to assist with a wide range of tasks, from answering questions to providing recommendations and engaging in casual conversation.',
+      'Anurag is a versatile AI chatbot designed to assist with a wide range of tasks, from answering questions to providing recommendations and engaging in casual conversation.',
     type: 'website',
     images: [
       {

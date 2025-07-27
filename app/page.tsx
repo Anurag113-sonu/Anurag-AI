@@ -222,7 +222,7 @@ import type { Components } from "react-markdown";
 export default function FuturisticAI() {
   const [mode, setMode] = useState<Mode>("general");
   const [provider, setProvider] = useState<Provider>("groq");
-  const [darkMode, setDarkMode] = useState(false);
+  const [darkMode, setDarkMode] = useState(true);
   const [uiStyle, setUIStyle] = useState<UIStyle>("modern");
   const [error, setError] = useState<string | null>(null);
   const messagesEndRef = useRef<HTMLDivElement>(null);

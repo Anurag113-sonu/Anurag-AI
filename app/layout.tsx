@@ -5,7 +5,7 @@ export const metadata: Metadata = {
   title: 'Anurag AI',
   description:
     'Anurag AI is a versatile AI chatbot designed to assist with a wide range of tasks, from answering questions to providing recommendations and engaging in casual conversation.',
-  generator: 'Rohan Sharma',
+  generator: 'Anurag',
   icons: {
     icon: '/logo.png',
   },
@@ -21,7 +21,7 @@ export const metadata: Metadata = {
         url: '/og-image.jpg',
         width: 1200,
         height: 630,
-        alt: 'Radhika AI Chatbot',
+        alt: 'Anurag AI Chatbot',
       },
     ],
   },
